@@ -15,3 +15,7 @@
 ## Color blindness simulator
 
 - [Color Oracle - design for the color impaired](http://colororacle.org/index.html)
+
+## Color palettes
+
+- [ColorHexa](https://www.colorhexa.com/)
