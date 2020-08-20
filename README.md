@@ -6,6 +6,7 @@
 - [Flaticon](https://www.flaticon.com/)
 - [Noun Project](https://thenounproject.com/)
 - [Open Moji](https://openmoji.org/)
+- [System UIcons](https://systemuicons.com/)
 
 ## Visualizations
 
