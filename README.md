@@ -13,6 +13,7 @@
 - [Servier medical art](https://smart.servier.com/)
 - [Pixabay](https://pixabay.com/)
 - [PhyloPic](http://phylopic.org/)
+- [SeekPNG](https://www.seekpng.com/)
 
 ## Color blindness simulator
 
