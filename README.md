@@ -14,6 +14,7 @@
 - [Pixabay](https://pixabay.com/)
 - [PhyloPic](http://phylopic.org/)
 - [SeekPNG](https://www.seekpng.com/)
+- [OpenClipArt](https://openclipart.org/)
 
 ## Color blindness simulator
 
