@@ -16,6 +16,7 @@
 - [OpenClipArt](https://openclipart.org/)
 - [unDraw](https://undraw.co/)
 - [ManyPixels](https://www.manypixels.co/gallery)
+- [Delesign](https://delesign.com/free-designs/graphics/)
 
 ## Photos
 
