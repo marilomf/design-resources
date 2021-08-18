@@ -8,13 +8,14 @@
 - [Open Moji](https://openmoji.org/)
 - [System UIcons](https://systemuicons.com/)
 
-## Visualizations
+## Illustrations
 
 - [Servier medical art](https://smart.servier.com/)
 - [PhyloPic](http://phylopic.org/)
 - [SeekPNG](https://www.seekpng.com/)
 - [OpenClipArt](https://openclipart.org/)
 - [unDraw](https://undraw.co/)
+- [ManyPixels](https://www.manypixels.co/gallery)
 
 ## Photos
 
