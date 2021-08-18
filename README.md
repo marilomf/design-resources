@@ -21,6 +21,7 @@
 - [Pexels](https://www.pexels.com/)
 - [Pixabay](https://pixabay.com/)
 - [Unsplash](https://unsplash.com/)
+- [StockSnap.io](https://stocksnap.io/)
 
 ## Color blindness simulator
 
