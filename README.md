@@ -35,3 +35,4 @@
 
 - [ColorHexa](https://www.colorhexa.com/)
 - [Colormind](http://colormind.io/)
+- [Palettable](https://palettable.io/)
