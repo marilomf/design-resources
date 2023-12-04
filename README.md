@@ -7,6 +7,7 @@
 - [Noun Project](https://thenounproject.com/)
 - [Open Moji](https://openmoji.org/)
 - [System UIcons](https://systemuicons.com/)
+- [EmojiCopy](https://emojicopy.com/)
 
 ## Illustrations
 
